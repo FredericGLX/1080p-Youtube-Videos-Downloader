@@ -7,6 +7,5 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.gitignore
-.vscode/
-__pycache__/
+/.vscode
+/__pycache__
